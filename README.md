@@ -34,7 +34,7 @@ If you have not already done so, you can purchase **Deep Analysis with Pandas** 
 - Physical Version
   - [Amazon Paperback](https://www.amazon.com/dp/B0HLS1QZVB)
 - Digital Version
-  <!-- - [Amazon Kindle](https://www.amazon.com/Deep-Analysis-Polars-Transforming-Visualizing-ebook/dp/B0GWW17QQM/) -->
+  - [Amazon Kindle](https://www.amazon.com/dp/B0HLS88TLB/)
   - [Leanpub eBook or PDF](https://leanpub.com/deep-analysis-with-pandas)
 
 If you find this repository useful, the full book offers even deeper insights. Purchasing it supports the author and helps maintain and improve this repository.
